@@ -1,0 +1,6 @@
+coverage
+pytest
+numpy
+pygame
+sphinx
+sphinx-rtd-theme
