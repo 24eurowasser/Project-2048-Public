@@ -34,7 +34,7 @@ In order to start the program you need to have these packages installed:
 run `$ pip install -r requirements.txt`
 
 # Poster
-<img src="./Poster.svg">
+<img src="./Poster.jpg">
 
 # GIF animations that help to understand the poster
 <img src="./VisionRhythm.gif">
@@ -49,6 +49,7 @@ run `$ pip install -r requirements.txt`
 # Class Diagrams
 
 <img src="./ClassDiagram.svg">
+
 
 
 
